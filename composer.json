@@ -1,6 +1,7 @@
 {
   "name": "ueef/hasher",
   "type": "library",
+  "license": "MIT",
   "description": "",
   "authors": [
     {

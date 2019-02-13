@@ -1,0 +1,19 @@
+{
+  "name": "ueef/hasher",
+  "type": "library",
+  "description": "",
+  "authors": [
+    {
+      "name": "ueef",
+      "email": "artem@arkadev.org"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ueef\\Hasher\\": "src"
+    }
+  }
+}

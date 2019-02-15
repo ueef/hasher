@@ -1,6 +1,8 @@
 <?php
 declare(strict_types=1);
 
+namespace Ueef\Hasher\Hashers;
+
 use Ueef\Hasher\Interfaces\HasherInterface;
 
 class HmacHasher implements HasherInterface
